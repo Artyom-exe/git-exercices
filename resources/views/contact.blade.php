@@ -1,4 +1,4 @@
-<x-app-layout>
+<x-guest-layout>
     <div class="flex items-center justify-center min-h-screen bg-gray-100">
         <div class="bg-white p-6 rounded-lg shadow-md w-full max-w-md">
             <h1 class="text-2xl font-bold text-center mb-6">Contactez-nous</h1>
@@ -29,4 +29,4 @@
             </form>
         </div>
     </div>
-</x-app-layout>
+</x-guest-layout>
